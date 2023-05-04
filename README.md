@@ -27,7 +27,7 @@ In the present era, wildlife and forest departments are facing the problem of mo
 ### 3. GSM Module
 ![gsm](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ5s9jmo_pSycY42_YG51sb4C_aIe7MmhmlsmsxZvXXOhpyQdGWm7siKM4YOdPg-JreZ8&usqp=CAU)
 ### 4. GPS Module
-![gps](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFJfUnbUjnncKluLASc7AFWv8w-1dJWvaLw&usqp=CAU)
+![gps](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTaLUBLVYjXcEg1SyxCDg2OZKVBXKoVDjCVQ&usqp=CAU)
 ### 5. RF Module
 ![rf](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonRxyscyzwWcb_s5KpxfHpK6CU0KWMLpLHg&usqp=CAU)
 ## Software Requirement
