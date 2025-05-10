@@ -36,12 +36,12 @@ It is a free IDE that can be downloaded from https://www.arduino.cc/en/software
 ## Block Diagram
 ![bd](https://i.imgur.com/q1FDPSD.png)
 ## Circuit Diagram
-![ckt](https://www.linkpicture.com/q/ckt-diagram.png)
+![ckt](https://i.imgur.com/ognBUbL.png)
 ## Working of the System
 The forest fire detection module works in three different stages. The first stage consists of reading external environmental parameters like temperature and smoke. The first step is designed with the help of some sensors that sense and converts analog data to digital data. The sensors read parameters like temperature, humidity and air quality and then send this information to the next nearest node. This process continues until the information reaches the final node or the main terminal, the second stage of the overall process. The third stage consists of the transmission of the information to the forest fire monitoring unit. Each node has a temperature and humidity sensor, a smoke sensor and a microcontroller unit. Arduino is a microcontroller device. The sensors interact with the Arduino and store the information for the comparison process. There is a predefined threshold value for each of these parameters. The microprocessor compares the sensor values at regular intervals of time with the threshold values. Based on the comparison if the input values of sensors exceed the threshold the node transmits the information to the next nearby node which again in turn transmits the information to the other nearby node. In this way, the message flow is regulated in this model.
 
 # Result
-![res1](https://www.linkpicture.com/q/result1_major.png)
+![res1](https://i.imgur.com/ZYT9Y9C.png)
 
 # Future Scope
 The Project can be extended for addition of
