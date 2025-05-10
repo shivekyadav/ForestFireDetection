@@ -34,7 +34,7 @@ In the present era, wildlife and forest departments are facing the problem of mo
 ### 1. Arudino IDE
 It is a free IDE that can be downloaded from https://www.arduino.cc/en/software
 ## Block Diagram
-![bd](https://imgur.com/a/NncyhVH)
+![bd](https://i.imgur.com/q1FDPSD.png)
 ## Circuit Diagram
 ![ckt](https://www.linkpicture.com/q/ckt-diagram.png)
 ## Working of the System
